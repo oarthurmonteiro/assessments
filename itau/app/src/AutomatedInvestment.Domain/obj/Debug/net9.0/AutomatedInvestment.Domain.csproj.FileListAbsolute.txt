@@ -1,0 +1,11 @@
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Domain/obj/Debug/net9.0/AutomatedInvestment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Domain/obj/Debug/net9.0/AutomatedInvestment.Domain.AssemblyInfoInputs.cache
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Domain/obj/Debug/net9.0/AutomatedInvestment.Domain.AssemblyInfo.cs
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Domain/obj/Debug/net9.0/AutomatedInvestment.Domain.csproj.CoreCompileInputs.cache
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Domain/bin/Debug/net9.0/AutomatedInvestment.Domain.deps.json
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Domain/bin/Debug/net9.0/AutomatedInvestment.Domain.dll
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Domain/bin/Debug/net9.0/AutomatedInvestment.Domain.pdb
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Domain/obj/Debug/net9.0/AutomatedInvestment.Domain.dll
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Domain/obj/Debug/net9.0/refint/AutomatedInvestment.Domain.dll
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Domain/obj/Debug/net9.0/AutomatedInvestment.Domain.pdb
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Domain/obj/Debug/net9.0/ref/AutomatedInvestment.Domain.dll

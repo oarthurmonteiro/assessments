@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/AutomatedInvestment.Api.props" />
+</Project>

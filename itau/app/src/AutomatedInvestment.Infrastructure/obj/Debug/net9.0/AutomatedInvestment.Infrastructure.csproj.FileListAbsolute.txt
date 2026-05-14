@@ -1,0 +1,17 @@
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/obj/Debug/net9.0/AutomatedInvestment.Infrastructure.csproj.AssemblyReference.cache
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/obj/Debug/net9.0/AutomatedInvestment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/obj/Debug/net9.0/AutomatedInvestment.Infrastructure.AssemblyInfoInputs.cache
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/obj/Debug/net9.0/AutomatedInvestment.Infrastructure.AssemblyInfo.cs
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/obj/Debug/net9.0/AutomatedInvestment.Infrastructure.csproj.CoreCompileInputs.cache
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/bin/Debug/net9.0/AutomatedInvestment.Infrastructure.deps.json
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/bin/Debug/net9.0/AutomatedInvestment.Infrastructure.runtimeconfig.json
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/bin/Debug/net9.0/AutomatedInvestment.Infrastructure.dll
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/bin/Debug/net9.0/AutomatedInvestment.Infrastructure.pdb
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/bin/Debug/net9.0/AutomatedInvestment.Domain.dll
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/bin/Debug/net9.0/AutomatedInvestment.Domain.pdb
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/obj/Debug/net9.0/Automate.5D7F49BD.Up2Date
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/obj/Debug/net9.0/AutomatedInvestment.Infrastructure.dll
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/obj/Debug/net9.0/refint/AutomatedInvestment.Infrastructure.dll
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/obj/Debug/net9.0/AutomatedInvestment.Infrastructure.pdb
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/obj/Debug/net9.0/AutomatedInvestment.Infrastructure.genruntimeconfig.cache
+/home/arthurmonteiro/Documents/private/assessments/itau/app/src/AutomatedInvestment.Infrastructure/obj/Debug/net9.0/ref/AutomatedInvestment.Infrastructure.dll

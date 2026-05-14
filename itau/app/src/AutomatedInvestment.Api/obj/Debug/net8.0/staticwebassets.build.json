@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aWz6a1CJBSEqN17LYDam+xFoFc8qUPFeTxWwHvHl++8=",
+  "Source": "AutomatedInvestment.Api",
+  "BasePath": "_content/AutomatedInvestment.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
