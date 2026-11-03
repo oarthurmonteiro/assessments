@@ -1,3 +1,5 @@
+from itertools import pairwise
+
 schedule = [
     [ [1,2],[5,6] ],
     [ [1,3] ],
@@ -26,8 +28,8 @@ def solution(schedule: list[list[list[int]]]) -> list[list[int]]:
         merged_schedules.append(interval)
 
     holes = []
-    for idx in range(len(merged_schedules) -1):
-        holes.append([merged_schedules[idx][1], merged_schedules[idx+1][0]])
+    for start, end in pairwise(merged_schedules):
+        holes.append([start[1], end[0]])
 
     return holes
 
