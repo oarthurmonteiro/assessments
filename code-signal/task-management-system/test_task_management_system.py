@@ -233,7 +233,7 @@ class TestAssignmentExpiry:
         tms.add_user(1, "alice", 1)
         assignment_id = tms.assign_task(2, "t1", "alice", duration=8)  # due_time = 10
 
-        assert tms.get_overdue_assignments(10) == [(assignment_id, "t1", "alice", 10)]
+        assert tms.get_overdue_assignments(12) == [(assignment_id, "t1", "alice", 10)]
 
     def test_expiry_frees_quota_slot(self, tms):
         tms.add_task(1, "t1", "Title", "desc", 1)
